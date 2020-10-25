@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b905f52-6a81-435a-9283-23a425f19c4d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\learn\jar" />
+        <option name="mavenHome" value="D:/learn/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\learn\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jHGArsOwdrIA7T3Ba5pgVYWHL8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring_mybatis_day01" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qq987\IdeaProjects\Spring_mybatis_day01_anno" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jluzh.test" />
+      <module name="Spring_mybatis_day01_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jluzh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b905f52-6a81-435a-9283-23a425f19c4d" name="默认更改列表" comment="" />
+      <created>1603453462759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603453462759</updated>
+      <workItem from="1603453467155" duration="465000" />
+      <workItem from="1603453974058" duration="1459000" />
+      <workItem from="1603592020279" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="330" key="FileChooserDialogImpl" timestamp="1603593300467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603593300467" />
+    <state width="960" height="292" key="GridCell.Tab.0.bottom" timestamp="1603455960042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603455960042" />
+    <state width="960" height="292" key="GridCell.Tab.0.center" timestamp="1603455960041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603455960041" />
+    <state width="960" height="292" key="GridCell.Tab.0.left" timestamp="1603455960041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603455960041" />
+    <state width="960" height="292" key="GridCell.Tab.0.right" timestamp="1603455960041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603455960041" />
+    <state x="310" y="212" key="SettingsEditor" timestamp="1603454104269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="310" y="212" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603454104269" />
+  </component>
+</project>
